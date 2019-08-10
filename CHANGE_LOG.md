@@ -1,5 +1,16 @@
 # Mk3 Expansion :: Change Log
 
+* 2017-0531: 1.3.5 (SuicidalInsanity) for KSP 1.2
+	+ New Part: Mk3 bicoupler
+	+ Fixes MM patch conflict with GTindustries
+	+ Fixes NFE issue with nuclear engines
+	+ Model retexture: Mk3 Inline Cockpit
+	+ Fixes chine lift vector issue. Craft with chines will likely need to be rebuilt
+	+ fixes cyclone FX vector
+	+ Cyclone Smoke FX working now
+	+ Adds Agency/manufacturer tab support
+	+ CLS MM patch updated
+	+ Adds WIP Mk3 cupola IVA
 * 2016-1226: 1.3 (SuicidalInsanity) for KSP 1.2
 	+ Version 1.3
 		- New Part; Mk3 inline Cockpit
