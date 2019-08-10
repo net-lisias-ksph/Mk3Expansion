@@ -1,5 +1,31 @@
 # Mk3 Expansion :: Change Log
 
+* 2018-0120: 1.4 (SuicidalInsanity) for KSP 1.2
+	+ Added Localization
+	+ M3X parts now have their own manufacturer
+	+ New part: BigS Airbrake A
+	+ New Part: BigS Airbrake B
+	+ New Part: Mk3 Precooler
+	+ New Part: Service Tank
+	+ New Part: Air-Augmented Rocket
+	+ New part: Mk3 Reactor
+	+ New part: Mk3 Ion Engine
+	+ New Part: Mk3 Docking Port
+	+ New Part: 1.875m SRB
+	+ New Part: Long 1.875m SRB
+	+ Model Rework: Mk3 Inline Cockpit
+	+ Model Rework: Saddletank Intake
+	+ Model Rework Mk3 Circular Intake
+	+ Part Rework: Coxswain OMS
+	+ Mk3 Inline Cockpit now has IVA
+	+ Improved turboprop throttle response
+	+ Fixed Turboprop IntakeAir usage
+	+ BigS Wing connection strength improved
+	+ Various Price/mass/techtree rebalances
+	+ Buffed Mk3 hypersonic cockpit heat tolerance
+	+ buffed command part torque wheels
+	+ Fixed NFE compatibility
+	+ Added M3X example Craft
 * 2017-0531: 1.3.5 (SuicidalInsanity) for KSP 1.2
 	+ New Part: Mk3 bicoupler
 	+ Fixes MM patch conflict with GTindustries
