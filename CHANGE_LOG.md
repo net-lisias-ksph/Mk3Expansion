@@ -1,5 +1,17 @@
 # Mk3 Expansion :: Change Log
 
+* 2018-0323: 1.4.5 (SuicidalInsanity) for KSP 1.4
+	+ KSP Version 1.4 compatibility
+		- New Part: Mk3 Structural tube
+		- New Part: LHub
+		- New Part: Mk3 SAS
+		- Model Rework: Seivert NTJ
+		- Model Rework: Mk3 Drone Core
+		- Hub masses reduced, now have LF/O
+		- Hubs no longer have SAS
+		- New SFX for Jet engines
+		- Adds RPM IVAs
+		- Chinese localization, credit to levin845
 * 2018-0120: 1.4 (SuicidalInsanity) for KSP 1.2
 	+ Added Localization
 	+ M3X parts now have their own manufacturer
