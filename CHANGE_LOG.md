@@ -1,5 +1,8 @@
 # Mk3 Expansion :: Change Log
 
+* 2019-0121: 1.4.7.5 (SuicidalInsanity) for KSP 1.6.
+	+ Update for KSP 1.6.X
+		- Fixes missing bulkhead profiles
 * 2018-1117: 1.4.7.3 (SuicidalInsanity) for KSP 1.5
 	+ Adds Tweakscale patch, see readme
 	+ Fixes B9PS subtype localization
