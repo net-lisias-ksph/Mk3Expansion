@@ -1,5 +1,22 @@
 # Mk3 Expansion :: Change Log
 
+* 2018-1018: 1.4.7 (SuicidalInsanity) for KSP 1.5
+	+ KSP 1.5 update
+	+ New Part: Cargo Bay Nose
+	+ New Part: Mk2 Adapter Cargo Ramp
+	+ New Part: Mk3 Cargo Hatch
+	+ New Part: Radial Mount
+	+ New part: Mk3 Endplate
+	+ New Part: Short Size2 Adapter
+	+ Model Rework: Mk3 Service Bay
+	+ CLEAVER mass and price increased
+	+ Fixed Service Tank surface attach offset.
+	+ New Example Craft; Transport VTOL
+	+ Adds USILS compatibility patch
+	+ Conversion from from Interstellar FuelSwitch to B9 Part Switch
+	+ fixes v1.4.7 B9 errors
+	+ fixes v1.4.7 MFT errors
+	+ fixes v1.4.7 NFE config
 * 2018-0323: 1.4.5 (SuicidalInsanity) for KSP 1.4
 	+ KSP Version 1.4 compatibility
 		- New Part: Mk3 Structural tube
