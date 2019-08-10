@@ -1,5 +1,12 @@
 # Mk3 Expansion :: Change Log
 
+* 2019-0423: 1.4.8 (SuicidalInsanity) for KSP 1.6.
+	+ Fixes tweakscale patch, no longer conflicts with TS's M3X patch
+	+ Hubs now have stack symmetry
+	+ Fixes scaled flag for agency contracts
+	+ Fixes missing bulkhead profiles
+	+ Adds Whitelist for ReStock compatibility
+	+ Fixes OMS engine white texture
 * 2019-0121: 1.4.7.5 (SuicidalInsanity) for KSP 1.6.
 	+ Update for KSP 1.6.X
 		- Fixes missing bulkhead profiles
