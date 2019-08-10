@@ -1,5 +1,12 @@
 # Mk3 Expansion :: Change Log
 
+* 2018-1117: 1.4.7.3 (SuicidalInsanity) for KSP 1.5
+	+ Adds Tweakscale patch, see readme
+	+ Fixes B9PS subtype localization
+	+ Fixes Chinese localization
+	+ Fixes MM syntax for patches with multiple :NEEDS
+	+ tweaked MFT patch, should play nicer with B9 PS now
+	+ Fixes FuelSwitch XHub double reference
 * 2018-1018: 1.4.7 (SuicidalInsanity) for KSP 1.5
 	+ KSP 1.5 update
 	+ New Part: Cargo Bay Nose
