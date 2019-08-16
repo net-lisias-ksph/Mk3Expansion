@@ -17,3 +17,5 @@ UPSTREAM
 ===================================================================================================================
 https://github.com/SuicidalInsanity/Mk3Expansion
 https://forum.kerbalspaceprogram.com/index.php?/topic/109401-*
+https://imgur.com/a/8AyGC
+
