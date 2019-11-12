@@ -1,5 +1,7 @@
 # Mk3 Expansion :: Change Log
 
+* 2015-1116: 1.09 (SuicidalInsanity) for KSP 0.7.3
+	+ No changelog provided
 * 2019-0423: 1.4.8 (SuicidalInsanity) for KSP 1.6.
 	+ Fixes tweakscale patch, no longer conflicts with TS's M3X patch
 	+ Hubs now have stack symmetry
