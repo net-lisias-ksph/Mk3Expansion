@@ -1,5 +1,10 @@
 # Mk3 Expansion :: Change Log
 
+* 2019-1109: 1.4.8.5 (SuicidalInsanity) for KSP 1.8.1
+	+ KSP 1.8.x update
+		- Fixes Coxswain OMS texture
+		- Mk3 Cupola now has cylindrical variant
+		- Inline bridge IVA now has speed display
 * 2016-0509: 1.11 (SuicidalInsanity) for KSP 1.1.2
 	+ Version 1.1.02
 		- Fixed Turboramjet tech node placement
