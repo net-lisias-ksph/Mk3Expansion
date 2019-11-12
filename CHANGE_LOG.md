@@ -1,5 +1,11 @@
 # Mk3 Expansion :: Change Log
 
+* 2016-0509: 1.11 (SuicidalInsanity) for KSP 1.1.2
+	+ Version 1.1.02
+		- Fixed Turboramjet tech node placement
+		- Fixed Texture for cockpit windows
+		- Fixed T hub node alignment
+		- Fixed Hades NTR NoAttach collider
 * 2015-1116: 1.09 (SuicidalInsanity) for KSP 0.7.3
 	+ No changelog provided
 * 2019-0423: 1.4.8 (SuicidalInsanity) for KSP 1.6.
