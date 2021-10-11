@@ -1,5 +1,19 @@
 # Mk3 Expansion :: Change Log
 
+* 2021-1005: 1.6.1 (SuicidalInsanity) for KSP 1.12.
+	+ KSP 1.12.x update
+		- Part Rework: CLEAVER
+		- Fixes missing texture on Cyclone Engine
+		- Fixes missing texture on Hurricane Engine
+		- Fixes missing texture on Service Bay
+		- Fixes missing texture on Minotaur SRBs
+		- Fixes missing Texture on Atlas SRB
+		- Fixes missing texture on Linear Aerospike
+		- Fixes missing texture on Service bay
+		- Fixes Sievert Engine FX
+		- Model Rework: Aligned Docking Port
+		- Model Rework: Inline Docking Port
+		- Model Rework: Stack Docking Port
 * 2021-0523: 1.6 (SuicidalInsanity) for KSP 1.11.2
 	+ KSP 1.11.x update
 	+ New Part: Mk3 Cargo Container
