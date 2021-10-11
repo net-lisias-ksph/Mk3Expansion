@@ -1,5 +1,21 @@
 # Mk3 Expansion :: Change Log
 
+* 2021-1006: 1.6.1.2 (SuicidalInsanity) for KSP 1.12.2
+	+ KSP 1.12.x update
+			- Part Rework: CLEAVER
+			- New Part: Structural X fuselage
+			- New Part: Structural T Fuselage
+			- New part: Structural L Fuselage
+			- Model Rework: Aligned Docking Port
+			- Model Rework: Inline Docking Port
+			- Model Rework: Stack Docking Port
+			- Fixes missing texture on Cyclone Engine
+			- Fixes missing texture on Hurricane Engine
+			- Fixes missing texture on Service Bay
+			- Fixes missing texture on Minotaur SRBs
+			- Fixes missing Testure on Atlas SRB
+			- Fixes missing texture on Linear Aerospike
+			- Fixes missing texture on Service bay
 * 2021-1005: 1.6.1 (SuicidalInsanity) for KSP 1.12.
 	+ KSP 1.12.x update
 		- Part Rework: CLEAVER
