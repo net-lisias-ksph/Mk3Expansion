@@ -1,5 +1,20 @@
 # Mk3 Expansion :: Change Log
 
+* 2020-0726: 1.5 (SuicidalInsanity) for KSP 1.10.0
+	+ New Part: Mk3 Heavy VTOL engine
+	+ New Part: Mk3 Ram Intake
+	+ Model Rework: Mk3 cockpit
+	+ Model Rework: Mk3 Turbofan
+	+ Fixes Hurricane prop attach node size
+	+ Fixes Taurus/Minotaur/Atlas texture
+	+ Fixes short Mk3-S2 adapter fuel qty.
+	+ Fixes decoupler crossfeed issue
+	+ Kerbals no longer hidden behind consoles in Mk3 Inline Cockpit IVA portrait cams
+	+ Fixes Firestorm drag cube
+	+ Mk3 Intake prices/masses/intake volumes brought inline with stock
+	+ All Mk3 parts now have correct breakingForce & breakingTorque values
+	+ Rework of variant part names and descriptions.
+	+ Fixes ShovelCockpit naming
 * 2019-1123: 1.4.8.6 (SuicidalInsanity) for KSP 1.8.1
 	+ Model Rework: Mk3 Decoupler. Now hollow!
 	+ Fixes drag cubes for Mk3 Drone core, Mk3 SAS, Mk3 Aligned Docking Port, Mk3 Decoupler, Mk3 Radial Mount. These should generate much less drag now.
