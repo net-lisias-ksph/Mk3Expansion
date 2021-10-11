@@ -15,7 +15,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 UPSTREAM
 ===================================================================================================================
-https://github.com/SuicidalInsanity/Mk3Expansion
-https://forum.kerbalspaceprogram.com/index.php?/topic/109401-*
-https://imgur.com/a/8AyGC
+[Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/109401-*)
+[Imgur](https://imgur.com/a/8AyGC)
+[SpaceDock](https://spacedock.info/mod/663/Mk3%20Stockalike%20Expansion)
+[Github](https://github.com/SuicidalInsanity/Mk3Expansion)
 
