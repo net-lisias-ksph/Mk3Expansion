@@ -1,5 +1,10 @@
 # Mk3 Expansion :: Change Log
 
+* 2019-1123: 1.4.8.6 (SuicidalInsanity) for KSP 1.8.1
+	+ Model Rework: Mk3 Decoupler. Now hollow!
+	+ Fixes drag cubes for Mk3 Drone core, Mk3 SAS, Mk3 Aligned Docking Port, Mk3 Decoupler, Mk3 Radial Mount. These should generate much less drag now.
+	+ Fixes Mk3 Service Bay not shielding its contents
+	+ Fixes Service Bay LF/O missing texture
 * 2019-1109: 1.4.8.5 (SuicidalInsanity) for KSP 1.8.1
 	+ KSP 1.8.x update
 		- Fixes Coxswain OMS texture
