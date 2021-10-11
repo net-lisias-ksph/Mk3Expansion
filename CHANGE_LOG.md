@@ -1,5 +1,14 @@
 # Mk3 Expansion :: Change Log
 
+* 2021-0523: 1.6 (SuicidalInsanity) for KSP 1.11.2
+	+ KSP 1.11.x update
+	+ New Part: Mk3 Cargo Container
+	+ Adds Cargo/Inventory part functionality
+	+ Fixes Mk3 Inline Docking Port dragcube
+	+ Adds optional MM patch to add stock heat/reactor decay mechanics to Sievert NTJ
+	+ Adds optional MM patch to add dual-cycle capability to Siervert NTJ
+	+ Adds System Heat compatibility MM patch
+	+ Localization fix for Short Truncated Saddletank
 * 2020-0807: 1.5.1 (SuicidalInsanity) for KSP 1.10.1
 	+ Update for 1.10.1
 	+ Fixes Elephant Engine intake issue
