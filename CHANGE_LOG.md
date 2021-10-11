@@ -1,5 +1,9 @@
 # Mk3 Expansion :: Change Log
 
+* 2020-0807: 1.5.1 (SuicidalInsanity) for KSP 1.10.1
+	+ Update for 1.10.1
+	+ Fixes Elephant Engine intake issue
+	+ Parts can now be radially attached to fairingless Elephant
 * 2020-0726: 1.5 (SuicidalInsanity) for KSP 1.10.0
 	+ New Part: Mk3 Heavy VTOL engine
 	+ New Part: Mk3 Ram Intake
