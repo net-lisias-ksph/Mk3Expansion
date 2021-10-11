@@ -1,5 +1,8 @@
 # Mk3 Expansion :: Change Log
 
+* 2021-1009: 1.6.1.3 (SuicidalInsanity) for KSP 1.12.2
+	+ Hotfix update
+			- Fixes Sievert Engine FX
 * 2021-1006: 1.6.1.2 (SuicidalInsanity) for KSP 1.12.2
 	+ KSP 1.12.x update
 			- Part Rework: CLEAVER
