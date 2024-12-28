@@ -1,5 +1,13 @@
 # Mk3 Expansion :: Change Log
 
+* 2023-1202: 1.6.1.4 (SuicidalInsanity) for KSP 1.12.5
+	+ Fixes audio for OMS engine
+	+ fix Airbrake names being swapped
+	+ Fixes missing texture error on structural T tube
+	+ Fixes M3X reactor costing less than its contained resources
+	+ Removed duplicate Lf/LOF B9Tank types
+	+ Fix localization issue with variant part B9PS configs
+	+ Fix SystemHeat compatibility
 * 2021-1009: 1.6.1.3 (SuicidalInsanity) for KSP 1.12.2
 	+ Hotfix update
 			- Fixes Sievert Engine FX
